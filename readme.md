@@ -3,7 +3,6 @@
 
 ![Status](https://img.shields.io/badge/status-beta-yellow)
 ![IA](https://img.shields.io/badge/IA-Machine%20Learning-green)
-![Licença](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
