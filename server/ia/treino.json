@@ -1,0 +1,1502 @@
+[
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.565,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.348,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.565,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.87,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.4,
+      "hora": 0.391,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.2,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.826,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 1.0,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 1.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.87,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.87,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.2,
+      "hora": 0.087,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.391,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.913,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.957,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.435,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.0,
+      "hora": 0.391,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.217,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.739,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.4,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.304,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.696,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.913,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.87,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.522,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.2,
+      "hora": 0.304,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.0,
+      "hora": 0.609,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.4,
+      "hora": 0.826,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.261,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.0,
+      "hora": 0.739,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.565,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 1.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.2,
+      "hora": 0.783,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.435,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.4,
+      "hora": 0.13,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.522,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.348,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.174,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.826,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.0,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.739,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.4,
+      "hora": 0.696,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.4,
+      "hora": 0.043,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.696,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 1.0,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.391,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.0,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.4,
+      "hora": 0.478,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.783,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.565,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.522,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.4,
+      "hora": 0.565,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.217,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.2,
+      "hora": 0.348,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.261,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 1.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.174,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.87,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.739,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.304,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.652,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.087,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.348,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.261,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 1.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.0,
+      "hora": 0.391,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.783,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.2,
+      "hora": 0.913,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.783,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.261,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.652,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.826,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.043,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 1.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.0,
+      "hora": 0.478,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.304,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.043,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.565,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.217,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.913,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.348,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.652,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.565,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.043,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.696,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.87,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.0,
+      "hora": 0.913,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.304,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.609,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.2,
+      "hora": 0.652,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.087,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.2,
+      "hora": 0.304,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.2,
+      "hora": 0.957,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.348,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.087,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.739,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.696,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.565,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.696,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.4,
+      "hora": 0.957,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.565,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.174,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.217,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 1.0,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.217,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.783,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.783,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.478,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.522,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.174,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.826,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.261,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.2,
+      "hora": 0.826,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.826,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.609,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.87,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 1.0,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.217,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.4,
+      "hora": 0.87,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.435,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.913,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.696,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.478,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.783,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.087,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.0,
+      "hora": 0.957,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.2,
+      "hora": 0.696,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.6,
+      "hora": 0.609,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.913,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.0,
+      "hora": 0.652,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.4,
+      "hora": 0.522,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.391,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.87,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.6,
+      "hora": 0.043,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 2.0,
+      "hora": 0.739,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.4,
+      "hora": 0.217,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.2,
+      "hora": 0.435,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.8,
+      "hora": 0.652,
+      "ipRepetido": 1.0
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.0,
+      "hora": 0.304,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  },
+  {
+    "input": {
+      "tentativas": 0.4,
+      "hora": 0.435,
+      "ipRepetido": 0.0
+    },
+    "output": {
+      "fraude": 0
+    }
+  },
+  {
+    "input": {
+      "tentativas": 1.8,
+      "hora": 0.609,
+      "ipRepetido": 0.5
+    },
+    "output": {
+      "fraude": 1
+    }
+  }
+]

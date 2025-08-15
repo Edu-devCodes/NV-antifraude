@@ -1,0 +1,198 @@
+{
+  "neurons": [
+    {
+      "trace": {
+        "elegibility": {},
+        "extended": {}
+      },
+      "state": 0,
+      "old": 0,
+      "activation": 0.2,
+      "bias": 0,
+      "layer": "input",
+      "squash": "LOGISTIC"
+    },
+    {
+      "trace": {
+        "elegibility": {},
+        "extended": {}
+      },
+      "state": 0,
+      "old": 0,
+      "activation": 0.95,
+      "bias": 0,
+      "layer": "input",
+      "squash": "LOGISTIC"
+    },
+    {
+      "trace": {
+        "elegibility": {},
+        "extended": {}
+      },
+      "state": 0,
+      "old": 0,
+      "activation": 0,
+      "bias": 0,
+      "layer": "input",
+      "squash": "LOGISTIC"
+    },
+    {
+      "trace": {
+        "elegibility": {},
+        "extended": {}
+      },
+      "state": -1.7660701823834861,
+      "old": -1.0592578425961587,
+      "activation": 0.14603172118139593,
+      "bias": -2.234045498287344,
+      "layer": 0,
+      "squash": "LOGISTIC"
+    },
+    {
+      "trace": {
+        "elegibility": {},
+        "extended": {}
+      },
+      "state": 1.7263544917473748,
+      "old": 1.0308150696862095,
+      "activation": 0.848945525585036,
+      "bias": 2.2660318077490142,
+      "layer": 0,
+      "squash": "LOGISTIC"
+    },
+    {
+      "trace": {
+        "elegibility": {},
+        "extended": {}
+      },
+      "state": 2.296625318627729,
+      "old": 1.4309824988998703,
+      "activation": 0.9085971634201492,
+      "bias": 2.9588195024669672,
+      "layer": 0,
+      "squash": "LOGISTIC"
+    },
+    {
+      "trace": {
+        "elegibility": {},
+        "extended": {}
+      },
+      "state": -1.866898620919219,
+      "old": -1.1223032237865709,
+      "activation": 0.13390098595432925,
+      "bias": -2.3513592993115093,
+      "layer": 0,
+      "squash": "LOGISTIC"
+    },
+    {
+      "trace": {
+        "elegibility": {},
+        "extended": {}
+      },
+      "state": -8.628103839208006,
+      "old": -6.542981812124875,
+      "activation": 0.00017897170684552286,
+      "bias": -0.8148563248322858,
+      "layer": "output",
+      "squash": "LOGISTIC"
+    }
+  ],
+  "connections": [
+    {
+      "from": 0,
+      "to": 3,
+      "weight": 3.395211521889695,
+      "gater": null
+    },
+    {
+      "from": 0,
+      "to": 4,
+      "weight": -3.38669411677476,
+      "gater": null
+    },
+    {
+      "from": 0,
+      "to": 5,
+      "weight": -4.209718293878171,
+      "gater": null
+    },
+    {
+      "from": 0,
+      "to": 6,
+      "weight": 3.571813099064392,
+      "gater": null
+    },
+    {
+      "from": 1,
+      "to": 3,
+      "weight": -0.22217577734113828,
+      "gater": null
+    },
+    {
+      "from": 1,
+      "to": 4,
+      "weight": 0.14490684984559218,
+      "gater": null
+    },
+    {
+      "from": 1,
+      "to": 5,
+      "weight": 0.18920997361725855,
+      "gater": null
+    },
+    {
+      "from": 1,
+      "to": 6,
+      "weight": -0.24200204360061892,
+      "gater": null
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "weight": 0.4392223595029325,
+      "gater": null
+    },
+    {
+      "from": 2,
+      "to": 4,
+      "weight": -0.4075618678526021,
+      "gater": null
+    },
+    {
+      "from": 2,
+      "to": 5,
+      "weight": -0.5167593149123489,
+      "gater": null
+    },
+    {
+      "from": 2,
+      "to": 6,
+      "weight": 0.39617683513870194,
+      "gater": null
+    },
+    {
+      "from": 3,
+      "to": 7,
+      "weight": 4.348359498821109,
+      "gater": null
+    },
+    {
+      "from": 4,
+      "to": 7,
+      "weight": -4.5214100294515625,
+      "gater": null
+    },
+    {
+      "from": 5,
+      "to": 7,
+      "weight": -5.747637536670352,
+      "gater": null
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "weight": 4.574066690807842,
+      "gater": null
+    }
+  ]
+}

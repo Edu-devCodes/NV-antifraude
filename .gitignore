@@ -1,0 +1,8 @@
+# Arquivos sensiveis
+server/.env
+
+# Fluxo do projeto
+fluxo/fluxo.md
+
+# Dependencias
+node_modules/
