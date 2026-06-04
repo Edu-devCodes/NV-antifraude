@@ -91,8 +91,7 @@ O modelo retorna um valor entre **0** e **1**:
 O **NV-Antifraude** foi desenvolvido com foco em proteção contra acesso não autorizado e manipulação indevida de dados.
 
 **Medidas implementadas:**
-- **Autenticação via JWT** – Garante que apenas clientes autorizados possam acessar a API.
-- **Chave de API exclusiva** – Cada aplicação integrada possui uma chave única, invalidando acessos não reconhecidos.
+- **Autenticação via JWT** – Apenas aplicações com a chave secreta correta conseguem consumir a API.
 - **Validação no backend** – Todos os dados recebidos são verificados para evitar alterações no frontend que possam enganar o sistema.
 - **Proteção contra ataques de força bruta** – Tentativas excessivas de autenticação são bloqueadas automaticamente.
 - **Análise em tempo real** – Todas as requisições são registradas e analisadas para detectar padrões suspeitos.
@@ -109,10 +108,128 @@ O **NV-Antifraude** foi desenvolvido com foco em proteção contra acesso não a
 Atualmente, o **NV-Antifraude** está em fase de testes internos e integrado exclusivamente ao **NOVA-BANK**.  
 O acesso à API é protegido por **JWT** e **chave de autenticação exclusiva** para a aplicação cliente.  
 
-📌 **Importante:** Não é possível executar o projeto localmente sem credenciais autorizadas.  
-Caso queira mais informações ou acesso para integração, entre em contato com o desenvolvedor.
 
 ---
+
+---
+
+## 🚀 Instalação
+
+### Pré-requisitos
+
+- Node.js 18+
+- NPM
+- Projeto NV-BANK (opcional, mas recomendado para testes completos)
+
+---
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Edu-devCodes/NV-antifraude.git
+```
+
+---
+
+### 2. Instale as dependências
+
+```bash
+npm install
+```
+
+---
+
+### 3. Configure as variáveis de ambiente
+
+Crie um arquivo:
+
+```txt
+server/.env
+```
+
+Utilize o seguinte modelo:
+
+```env
+JWT_SECRET=sua_chave_secreta
+```
+
+⚠️ Importante:
+
+A variável `JWT_SECRET` deve possuir exatamente o mesmo valor utilizado no projeto NV-BANK.
+
+Essa chave é utilizada para validar os tokens JWT enviados pelo cliente e impedir requisições não autorizadas.
+
+---
+
+### 4. Inicie o servidor
+
+Entre na pasta:
+
+```bash
+cd server
+```
+
+Execute:
+
+```bash
+node server.js
+```
+
+Se tudo estiver correto, você verá:
+
+```txt
+Servidor rodando na porta 5000
+```
+
+---
+
+### 5. Testando integração com NV-BANK
+
+Para testar o fluxo completo de login e transferências, configure também o projeto:
+
+https://github.com/Edu-devCodes/NV-BANK
+
+O NV-BANK envia os dados para o NV-Antifraude durante:
+
+- Tentativas de login
+- Transferências financeiras
+
+permitindo que a IA realize análises em tempo real.
+
+---
+## 🏗 Arquitetura
+
+```txt
+NV-BANK
+   ↓
+JWT Authentication
+   ↓
+NV-Antifraude API
+   ↓
+Normalização dos dados
+   ↓
+Rede Neural (Synaptic)
+   ↓
+Score de risco
+   ↓
+Aprovar ou Bloquear
+```
+
+## 🧠 Sobre o Modelo
+
+📌 Observação:
+
+O treinamento do modelo não é necessário para executar o projeto.
+A versão disponibilizada neste repositório já possui pesos treinados e está pronta para testes locais.
+
+O objetivo deste projeto é demonstrar o funcionamento da integração antifraude e do processo de análise de risco.
+
+Versões futuras incluirão:
+
+- Re-treinamento automatizado
+- Aprendizado contínuo
+- Novas variáveis comportamentais
+- Painel de monitoramento dos resultados (atualmente apenas via terminal)
 
 ## 📅 Roadmap
 
