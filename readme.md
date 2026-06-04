@@ -102,15 +102,6 @@ O **NV-Antifraude** foi desenvolvido com foco em proteção contra acesso não a
 ---
 
 
-
-## 🚀 Status e Acesso
-
-Atualmente, o **NV-Antifraude** está em fase de testes internos e integrado exclusivamente ao **NOVA-BANK**.  
-O acesso à API é protegido por **JWT** e **chave de autenticação exclusiva** para a aplicação cliente.  
-
-
----
-
 ---
 
 ## 🚀 Instalação
