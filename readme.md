@@ -97,7 +97,11 @@ O **NV-Antifraude** foi desenvolvido com foco em proteção contra acesso não a
 - **Análise em tempo real** – Todas as requisições são registradas e analisadas para detectar padrões suspeitos.
 - **Bloqueio temporário ou definitivo** – Contas ou transações com risco elevado são automaticamente interrompidas.
 
-📌 **Importante:** O código que conecta a IA antifraude e processa decisões críticas não está disponível publicamente para evitar vulnerabilidades.
+📌 Importante:
+
+Este repositório contém uma versão demonstrativa do sistema antifraude.
+
+Alguns detalhes de implementação poderão ser alterados ou mantidos privados em futuras versões de produção por motivos de segurança e estratégia comercial.
 
 ---
 
